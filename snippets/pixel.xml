@@ -21,7 +21,7 @@
           fetch="https://github.com/PixelOS-Bluecross"
           revision="refs/heads/SnowCone" />
 
-  <remote name="ollyOS"
+  <remote name="gitlab/ollyOS"
           fetch="https://gitlab.com/oliverharrison03"
           revision="refs/heads/SaltyIceCream" />
 
