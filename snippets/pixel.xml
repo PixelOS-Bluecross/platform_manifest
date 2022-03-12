@@ -21,8 +21,8 @@
           fetch="https://github.com/PixelOS-Bluecross"
           revision="refs/heads/SnowCone" />
 
-  <remote name="gitlab/hentaiOS"
-          fetch="https://gitlab.com/hentaiOS"
+  <remote name="ollyOS"
+          fetch="https://gitlab.com/oliverharrison03"
           revision="refs/heads/SaltyIceCream" />
 
   <remote name="github/LineageOS"
@@ -67,7 +67,7 @@
   <project path="system/core" name="platform_system_core" groups="pdk" remote="github/PixelOS-Bluecross" />
   <project path="bionic" name="platform_bionic" groups="pdk" remote="github/PixelOS-Bluecross" />
   <project path="vendor/codeaurora/telephony" name="platform_vendor_codeaurora_telephony" groups="vendor" remote="github/PixelOS-Bluecross" />
-  <project path="vendor/gms" name="platform_vendor_gms" groups="vendor" remote="gitlab/hentaiOS" clone-depth="1"/>
+  <project path="vendor/gms" name="platform_vendor_gms" groups="vendor" remote="gitlab/ollyOS" clone-depth="1"/>
   <project path="vendor/pixel" name="platform_vendor_pixel" groups="vendor" remote="github/PixelOS-Bluecross" />
   <project path="vendor/qcom/opensource/power" name="platform_vendor_qcom_opensource_power" groups="vendor" remote="github/PixelOS-Bluecross" />
   <project path="vendor/qcom/opensource/interfaces" name="platform_vendor_qcom_opensource_interfaces" groups="vendor" remote="github/PixelOS-Bluecross" />
