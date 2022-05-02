@@ -69,6 +69,7 @@
   <project path="vendor/codeaurora/telephony" name="platform_vendor_codeaurora_telephony" groups="vendor" remote="github/PixelOS-Bluecross" />
   <project path="vendor/gms" name="platform_vendor_gms" groups="vendor" remote="gitlab/ollyOS" clone-depth="1"/>
   <project path="vendor/pixel" name="platform_vendor_pixel" groups="vendor" remote="github/PixelOS-Bluecross" />
+  <project path="packages/apps/RepainterServicePriv" name="platform_packages_apps_RepainterServicePriv" groups="pdk-fs" remote="github/PixelOS-Bluecross" />
   <project path="vendor/qcom/opensource/power" name="platform_vendor_qcom_opensource_power" groups="vendor" remote="github/PixelOS-Bluecross" />
   <project path="vendor/qcom/opensource/interfaces" name="platform_vendor_qcom_opensource_interfaces" groups="vendor" remote="github/PixelOS-Bluecross" />
 
